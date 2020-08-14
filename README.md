@@ -1,5 +1,5 @@
 # tomcat65.github.io
 A website for Tomas Alvarez
 
-# Profesional website
+# Professional website
 Most recent CV
